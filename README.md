@@ -7,6 +7,14 @@ A web app that turns long documents into short summaries. Upload a PDF or Word f
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B)
 
+## Screenshots
+
+![Landing page](docs/screenshots/home.png)
+
+| Login | Why us |
+|---|---|
+| ![Login page](docs/screenshots/login.png) | ![Why us page](docs/screenshots/why-us.png) |
+
 ## Features
 
 - **PDF and DOCX support**: text is extracted with `PyPDF2` and `python-docx`
